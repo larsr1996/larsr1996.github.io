@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Lars Reichwein"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About me
 
 I am a PhD student at Heinrich Heine University Düsseldorf in the group of Alexander Pukhov. My research is in the field of theoretical plasma physics, specifically on the topic of wakefield acceleration. 
 
