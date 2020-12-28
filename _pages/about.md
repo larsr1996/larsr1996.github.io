@@ -14,6 +14,12 @@ I am a PhD student at Heinrich Heine University Düsseldorf in the group of Alex
 
 Will be updated soon ...
 
+## Peer-reviewed publications
+
+## Monographs
+
+1. L. Reichwein, *Struktur von Coulomb-Clustern im Bubble Regime*, Springer Spektrum (2020)
+
 # Teaching
 
 Will be updated soon ...
