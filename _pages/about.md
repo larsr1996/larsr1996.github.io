@@ -27,4 +27,14 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 # Teaching
 
-Will be updated soon ...
+## Teaching assistant
+
+- Theoretical Mechanics -- 2019, 2020
+- Mathematical Methods for Physicists I -- 2019
+- Numerical Simulations II -- 2018
+- Numerical Simulations I -- 2018
+- Elementary Physics Laboratory -- 2015-2019
+
+## Own lectures
+
+- Crash course physics for pharmacists -- 2018--2020
