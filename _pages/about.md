@@ -21,6 +21,10 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 3. L. Reichwein, J. Thomas, and A. Pukhov, *The filamented electron bunch of the bubble regime*, Laser Part. Beams **38**(2), pp. 121-127 (2020)
 4. L. Reichwein, J. Thomas, and A. Pukhov, *Two-dimensional structures of electron bunches in relativistic plasma cavities*, Phys. Rev. E **98**, 013201 (2018)
 
+## Preprints
+
+1. L. Reichwein, A. Hützen, M. Büscher, and A. Pukhov, *On the robustness of spin polarization for magnetic vortex accelerated proton bunches in density down-ramps*, arXiv:2101.10148 (2021)
+
 ## Monographs
 
 1. L. Reichwein, *Struktur von Coulomb-Clustern im Bubble Regime*, Springer Spektrum (2020)
