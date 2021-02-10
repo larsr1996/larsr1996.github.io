@@ -42,4 +42,4 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Own lectures
 
-- Crash course physics for pharmacists: 2018--2021
+- Crash course physics for pharmacists: 2018-2021
