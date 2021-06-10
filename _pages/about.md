@@ -17,7 +17,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 ## Peer-reviewed publications
 
 1. L. Reichwein, A. Hützen, M. Büscher, and A. Pukhov, *On the robustness of spin polarization for magnetic vortex accelerated proton bunches in density down-ramps*, arXiv:2101.10148 (2021) *[Accepted for publication in PPCF]*
-1. A. A. Golovanov, I. Yu. Kostyukov, L. Reichwein, J. Thomas, and A. Pukhov, *Excitation of strongly nonlinear plasma wakefield by electron bunches*, arXiv:2102.04693 (2021) *[Accepted for publication in PPCF]*
+1. A. A. Golovanov, I. Yu. Kostyukov, L. Reichwein, J. Thomas, and A. Pukhov, *Excitation of strongly nonlinear plasma wakefield by electron bunches*, Plasma Phys. Control. Fusion **63**, 085004 (2021) 
 1. L. Reichwein, J. Thomas, A. A. Golovanov, I. Yu. Kostyukov, and A. Pukhov, *Fixing E-field divergence in strongly non-linear wakefields in homogeneous plasma*, Plasma Phys. Control. Fusion **62**, 115017 (2020)
 1. L. Reichwein, J. Thomas, and A. Pukhov, *Finite-emittance Wigner crystals in the bubble regime*, Laser Part. Beams **38**(3), pp. 176-180 (2020)
 1. L. Reichwein, J. Thomas, and A. Pukhov, *The filamented electron bunch of the bubble regime*, Laser Part. Beams **38**(2), pp. 121-127 (2020)
