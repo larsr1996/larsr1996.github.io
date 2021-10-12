@@ -29,6 +29,8 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Preprints
 
+1. L. Reichwein, A. Golovanov, I. Yu. Kostyukov, and A. Pukhov, *Stable positron acceleration via laser-augmented blowouts in two-column plasma structures*, arXiv:2110.05226
+
 --
 
 
