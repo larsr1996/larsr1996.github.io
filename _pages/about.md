@@ -29,6 +29,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Preprints
 
+1. L. Reichwein, M. Büscher, and A. Pukhov, *Acceleration of spin-polarized proton beams via two parallel laser pulses*, arXiv:2201.11534 (2022)
 1. B. Aurand, L. Reichwein, K. M. Schwind et al., *Spatial profile of accelerated electrons from ponderomotive scattering in hydrogen cluster targets*, arXiv:2110.12639 (2021)
 1. L. Reichwein, A. Golovanov, I. Yu. Kostyukov, and A. Pukhov, *Stable positron acceleration via laser-augmented blowouts in two-column plasma structures*, arXiv:2110.05226 (2021)
 
@@ -47,4 +48,4 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Own lectures
 
-- Crash course physics for pharmacists: 2018-2021
+- Crash course physics for pharmacists: 2018-2022
