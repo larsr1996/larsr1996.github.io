@@ -38,8 +38,9 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Teaching assistant
 
+- Mathematical Methods for Physicists II: 2021-2022
+- Nuclear and Elementary Particle Physics: 2022
 - Theoretical Electrodynamics: 2021
-- Mathematical Methods for Physicists II: 2021
 - Theoretical Mechanics: 2019, 2020
 - Mathematical Methods for Physicists I: 2019
 - Numerical Simulations II: 2018
