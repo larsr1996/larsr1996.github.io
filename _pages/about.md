@@ -16,7 +16,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Peer-reviewed publications
 
-1. B. Aurand, L. Reichwein, K. M. Schwind et al., *Spatial profile of accelerated electrons from ponderomotive scattering in hydrogen cluster targets*, New J. Phys. **24**, 033006 (2022)
+1. B. Aurand, L. Reichwein, K. M. Schwind et al., *Spatial profile of accelerated electrons from ponderomotive scattering in hydrogen cluster targets*, New J. Phys. **24**, 033006 (2022) [[arXiv]](https://arxiv.org/abs/2110.12639)
 1. L. Reichwein, A. Hützen, M. Büscher, and A. Pukhov, *On the robustness of spin polarization for magnetic vortex accelerated proton bunches in density down-ramps*, Plasma Phys. Control. Fusion **63**, 085011 (2021)
 1. A. A. Golovanov, I. Yu. Kostyukov, L. Reichwein, J. Thomas, and A. Pukhov, *Excitation of strongly nonlinear plasma wakefield by electron bunches*, Plasma Phys. Control. Fusion **63**, 085004 (2021) 
 1. L. Reichwein, J. Thomas, A. A. Golovanov, I. Yu. Kostyukov, and A. Pukhov, *Fixing E-field divergence in strongly non-linear wakefields in homogeneous plasma*, Plasma Phys. Control. Fusion **62**, 115017 (2020)
