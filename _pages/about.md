@@ -20,9 +20,9 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 1. L. Reichwein, A. Hützen, M. Büscher, and A. Pukhov, *On the robustness of spin polarization for magnetic vortex accelerated proton bunches in density down-ramps*, Plasma Phys. Control. Fusion **63**, 085011 (2021) [[arXiv]](https://arxiv.org/abs/2101.10148)
 1. A. A. Golovanov, I. Yu. Kostyukov, L. Reichwein, J. Thomas, and A. Pukhov, *Excitation of strongly nonlinear plasma wakefield by electron bunches*, Plasma Phys. Control. Fusion **63**, 085004 (2021) [[arXiv]](https://arxiv.org/abs/2102.04693)
 1. L. Reichwein, J. Thomas, A. A. Golovanov, I. Yu. Kostyukov, and A. Pukhov, *Fixing E-field divergence in strongly non-linear wakefields in homogeneous plasma*, Plasma Phys. Control. Fusion **62**, 115017 (2020) [[arXiv]](https://arxiv.org/abs/2007.10977)
-1. L. Reichwein, J. Thomas, and A. Pukhov, *Finite-emittance Wigner crystals in the bubble regime*, Laser Part. Beams **38**(3), pp. 176-180 (2020) [[arXiv]](https://arxiv.org/abs/2002.06962)
-1. L. Reichwein, J. Thomas, and A. Pukhov, *The filamented electron bunch of the bubble regime*, Laser Part. Beams **38**(2), pp. 121-127 (2020) [[arXiv]](https://arxiv.org/abs/1903.04858)
-1. L. Reichwein, J. Thomas, and A. Pukhov, *Two-dimensional structures of electron bunches in relativistic plasma cavities*, Phys. Rev. E **98**, 013201 (2018) [[arXiv]](https://arxiv.org/abs/1805.01312)
+1. L. Reichwein, J. Thomas, and A. Pukhov, *Finite-emittance Wigner crystals in the bubble regime*, Laser Part. Beams **38**(3), pp. 176-180 (2020) [[arXiv]](https://arxiv.org/abs/2002.06962) [[LPB]](https://doi.org/10.1017/S0263034620000221)
+1. L. Reichwein, J. Thomas, and A. Pukhov, *The filamented electron bunch of the bubble regime*, Laser Part. Beams **38**(2), pp. 121-127 (2020) [[arXiv]](https://arxiv.org/abs/1903.04858) [[LPB]](https://doi.org/10.1017/S0263034620000130)
+1. L. Reichwein, J. Thomas, and A. Pukhov, *Two-dimensional structures of electron bunches in relativistic plasma cavities*, Phys. Rev. E **98**, 013201 (2018) [[arXiv]](https://arxiv.org/abs/1805.01312) [[PRE]](https://doi.org/10.1103/PhysRevE.98.013201)
 
 ## Monographs
 
