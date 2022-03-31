@@ -31,7 +31,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 ## Preprints
 
 1. L. Reichwein, M. Büscher, and A. Pukhov, *Acceleration of spin-polarized proton beams via two parallel laser pulses*, arXiv:2201.11534 (2022) [[arXiv]](https://arxiv.org/abs/2201.11534)
-1. L. Reichwein, A. Golovanov, I. Yu. Kostyukov, and A. Pukhov, *Stable positron acceleration via laser-augmented blowouts in two-column plasma structures*, arXiv:2110.05226 (2021) [[https://arxiv.org/abs/2110.05226]](https://arxiv.org/abs/2110.05226)
+1. L. Reichwein, A. Golovanov, I. Yu. Kostyukov, and A. Pukhov, *Stable positron acceleration via laser-augmented blowouts in two-column plasma structures*, arXiv:2110.05226 (2021) [[arXiv]](https://arxiv.org/abs/2110.05226)
 
 
 # Teaching
