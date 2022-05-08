@@ -28,10 +28,14 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 1. L. Reichwein, *Struktur von Coulomb-Clustern im Bubble Regime*, Springer Spektrum (2020) [[Springer]](https://link.springer.com/book/10.1007/978-3-658-28898-3)
 
+## Proceedings
+
+1. L. Reichwein, A. Hützen, M. Büscher, and A. Pukhov, *Spin-Polarized Particle Beams from Laser-Plasma Based Accelerators*, J. Phys.: Conf. Ser. **2249**, 012018 (2022). [[IOP]](https://iopscience.iop.org/article/10.1088/1742-6596/2249/1/012018)
+
 ## Preprints
 
 1. L. Reichwein, M. Büscher, and A. Pukhov, *Acceleration of spin-polarized proton beams via two parallel laser pulses*, arXiv:2201.11534 (2022) [[arXiv]](https://arxiv.org/abs/2201.11534)
-1. L. Reichwein, A. Golovanov, I. Yu. Kostyukov, and A. Pukhov, *Stable positron acceleration via laser-augmented blowouts in two-column plasma structures*, arXiv:2110.05226 (2021) [[arXiv]](https://arxiv.org/abs/2110.05226)
+1. L. Reichwein, A. Golovanov, I. Yu. Kostyukov, and A. Pukhov, *Stable positron acceleration via laser-augmented blowouts in two-column plasma structures*, arXiv:2110.05226, accepted at Phys. Rev. E (2021) [[arXiv]](https://arxiv.org/abs/2110.05226)
 
 
 # Teaching
