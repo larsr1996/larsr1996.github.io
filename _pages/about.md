@@ -16,7 +16,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Peer-reviewed publications
 
-1. L. Reichwein, A. Golovanov, I. Yu. Kostyukov, and A. Pukhov, *Positron acceleration via laser-augmented blowouts in two-column plasma structures*, arXiv:2110.05226, Phys. Rev. E **105**, 055207 (2022) [[PRE]](https://doi.org/10.1103/PhysRevE.105.055207) [[arXiv]](https://arxiv.org/abs/2110.05226)
+1. L. Reichwein, A. Golovanov, I. Yu. Kostyukov, and A. Pukhov, *Positron acceleration via laser-augmented blowouts in two-column plasma structures*, Phys. Rev. E **105**, 055207 (2022) [[PRE]](https://doi.org/10.1103/PhysRevE.105.055207) [[arXiv]](https://arxiv.org/abs/2110.05226)
 1. B. Aurand, L. Reichwein, K. M. Schwind et al., *Spatial profile of accelerated electrons from ponderomotive scattering in hydrogen cluster targets*, New J. Phys. **24**, 033006 (2022) [[NJP]](https://doi.org/10.1088/1367-2630/ac53ba) [[arXiv]](https://arxiv.org/abs/2110.12639)
 1. L. Reichwein, A. Hützen, M. Büscher, and A. Pukhov, *On the robustness of spin polarization for magnetic vortex accelerated proton bunches in density down-ramps*, Plasma Phys. Control. Fusion **63**, 085011 (2021) [[PPCF]]( https://doi.org/10.1088/1361-6587/ac0614) [[arXiv]](https://arxiv.org/abs/2101.10148)
 1. A. A. Golovanov, I. Yu. Kostyukov, L. Reichwein, J. Thomas, and A. Pukhov, *Excitation of strongly nonlinear plasma wakefield by electron bunches*, Plasma Phys. Control. Fusion **63**, 085004 (2021) [[PPCF]](https://doi.org/10.1088/1361-6587/ac0352) [[arXiv]](https://arxiv.org/abs/2102.04693)
