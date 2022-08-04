@@ -27,7 +27,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Monographs
 
-1. L. Reichwein, *Struktur von Coulomb-Clustern im Bubble Regime*, Springer Spektrum (2020) [[Springer]](https://link.springer.com/book/10.1007/978-3-658-28898-3)
+1. L. Reichwein, *Struktur von Coulomb-Clustern im Bubble-Regime*, Springer Spektrum (2020) [[Springer]](https://link.springer.com/book/10.1007/978-3-658-28898-3)
 
 ## Proceedings
 
