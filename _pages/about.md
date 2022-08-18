@@ -24,7 +24,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 1. L. Reichwein, J. Thomas, and A. Pukhov, *Finite-emittance Wigner crystals in the bubble regime*, Laser Part. Beams **38**(3), pp. 176-180 (2020) [[LPB]](https://doi.org/10.1017/S0263034620000221) [[arXiv]](https://arxiv.org/abs/2002.06962)
 1. L. Reichwein, J. Thomas, and A. Pukhov, *The filamented electron bunch of the bubble regime*, Laser Part. Beams **38**(2), pp. 121-127 (2020) [[LPB]](https://doi.org/10.1017/S0263034620000130) [[arXiv]](https://arxiv.org/abs/1903.04858)
 1. L. Reichwein, J. Thomas, and A. Pukhov, *Two-dimensional structures of electron bunches in relativistic plasma cavities*, Phys. Rev. E **98**, 013201 (2018) [[PRE]](https://doi.org/10.1103/PhysRevE.98.013201) [[arXiv]](https://arxiv.org/abs/1805.01312)
-1. L. Reichwein, M. Büscher, and A. Pukhov, *Acceleration of spin-polarized proton beams via two parallel laser pulses*, Phys. Rev. Accel. Beams **25**, 081001 (2022). [[PRAB]](https://link.aps.org/doi/10.1103/PhysRevAccelBeams.25.081001) [[arXiv]](https://arxiv.org/abs/2201.11534)
+1. L. Reichwein, A. Pukhov, and M. Büscher, *Acceleration of spin-polarized proton beams via two parallel laser pulses*, Phys. Rev. Accel. Beams **25**, 081001 (2022). [[PRAB]](https://link.aps.org/doi/10.1103/PhysRevAccelBeams.25.081001) [[arXiv]](https://arxiv.org/abs/2201.11534)
 
 ## Monographs
 
