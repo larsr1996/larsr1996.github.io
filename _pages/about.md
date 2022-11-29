@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Heinrich Heine University Düsseldorf in the group of [Alexander Pukhov](http://pukhov.tp1.hhu.de/). My research is in the field of theoretical plasma physics, specifically on the topic of wakefield acceleration. 
+I am a postdoctoral researcher at Heinrich Heine University Düsseldorf in the group of [Alexander Pukhov](http://pukhov.tp1.hhu.de/). My research is in the field of theoretical plasma physics, specifically on the topic of wakefield acceleration. 
 
 # Publications
 
