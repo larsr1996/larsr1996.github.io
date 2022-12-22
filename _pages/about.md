@@ -47,9 +47,9 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Teaching assistant
 
-- Mathematical Methods for Physicists II: 2021-2022
-- Nuclear and Elementary Particle Physics: 2022
-- Theoretical Electrodynamics: 2021
+- Mathematical Methods for Physicists II: 2021-2023
+- Nuclear and Elementary Particle Physics: 2022, 2023
+- Theoretical Electrodynamics: 2021, 2022
 - Theoretical Mechanics: 2019, 2020
 - Mathematical Methods for Physicists I: 2019
 - Numerical Simulations II: 2018
@@ -58,4 +58,4 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Own lectures
 
-- Crash course physics for pharmacists: 2018-2022
+- Crash course physics for pharmacists: 2018-2023
