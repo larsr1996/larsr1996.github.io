@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lars Reichwein"
 title_separator          : "-"
 name                     : &name "Lars Reichwein"
-description              : &description "PhD student"
+description              : &description "PostDoc"
 url                      : https://larsr1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "larsr1996/larsr1996.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Lars Reichwein"
-  avatar           : "github_profile.jpg"
-  bio              : "PhD student"
+  avatar           : "github_profile.png"
+  bio              : "PostDoc"
   location         : "Düsseldorf"
   employer         :
   pubmed           : 
