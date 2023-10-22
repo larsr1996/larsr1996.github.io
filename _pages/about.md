@@ -32,7 +32,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Reviews
 
-1. A.F. Habib et al., *Plasma photocathodes*, Annalen der Physik, 2200655 (2023). [[AndP]](https://doi.org/10.1002/andp.202200655)
+1. A.F. Habib et al., *Plasma photocathodes*, Ann. Phys. **535**, 2200655 (2023). [[AndP]](https://doi.org/10.1002/andp.202200655)
    
 
 ## Preprints
