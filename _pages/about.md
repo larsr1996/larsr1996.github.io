@@ -54,16 +54,17 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Teaching assistant
 
+- Theoretical Mechanics: 2019-2020, 2024
+- Nuclear and Elementary Particle Physics: 2022-2024
 - Progamming Lab for Physicists: 2023
 - Mathematical Methods for Physicists I: 2019, 2023
 - Mathematical Methods for Physicists II: 2021-2023
-- Nuclear and Elementary Particle Physics: 2022, 2023
 - Theoretical Electrodynamics: 2021, 2022
-- Theoretical Mechanics: 2019, 2020
 - Numerical Simulations II: 2018
 - Numerical Simulations I: 2018
 - Elementary Physics Laboratory: 2015-2019
 
 ## Own lectures
 
+- Higher analytical methods in physics: 2024 (together with Prof. Dr. Axel Grünrock)
 - Crash course physics for pharmacists: 2018-2023
