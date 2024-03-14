@@ -16,6 +16,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Peer-reviewed publications
 
+1. L. Reichwein, X.F. Shen, A. Pukhov, and M. Büscher, *Spin-polarized 3He shock waves from a solid-gas composite target at high laser intensities*, Plasma Phys. Control. Fusion **66**, 055002 (2024). [[PPCF]](https://doi.org/10.1088/1361-6587/ad30c0) [[arXiv]](https://doi.org/10.48550/arXiv.2309.06271)
 1. L. Reichwein, A. Pukhov, and M. Büscher, *Acceleration of spin-polarized proton beams via two parallel laser pulses*, Phys. Rev. Accel. Beams **25**, 081001 (2022). [[PRAB]](https://link.aps.org/doi/10.1103/PhysRevAccelBeams.25.081001) [[arXiv]](https://arxiv.org/abs/2201.11534)
 1. L. Reichwein, A. Golovanov, I. Yu. Kostyukov, and A. Pukhov, *Positron acceleration via laser-augmented blowouts in two-column plasma structures*, Phys. Rev. E **105**, 055207 (2022) [[PRE]](https://doi.org/10.1103/PhysRevE.105.055207) [[arXiv]](https://arxiv.org/abs/2110.05226)
 1. B. Aurand, L. Reichwein, K. M. Schwind et al., *Spatial profile of accelerated electrons from ponderomotive scattering in hydrogen cluster targets*, New J. Phys. **24**, 033006 (2022) [[NJP]](https://doi.org/10.1088/1367-2630/ac53ba) [[arXiv]](https://arxiv.org/abs/2110.12639)
@@ -38,7 +39,6 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 ## Preprints
 
 1. X.F. Shen, L. Reichwein, and A. Pukhov, *Relativistic Topological Waves from Cherenkov and Doppler Resonances in Self-Magnetized Laser Plasmas*, arXiv:2209.06685 (2022). [[arXiv]](https://doi.org/10.48550/arXiv.2209.06685)
-1. L. Reichwein, X.F. Shen, A. Pukhov, and M. Büscher, *Spin-polarized 3He shock waves from a solid-gas composite target at high laser intensities*, arXiv:2309.06271 (2023). [[arXiv]](https://doi.org/10.48550/arXiv.2309.06271)
 1. C. Zheng et al., *First evidence of nuclear polarization effects in a laser-induced 3He fusion plasma*, arXiv:2310.04184 (2023). [[arXiv]](https://doi.org/10.48550/arXiv.2310.04184)
    
 
