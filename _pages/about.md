@@ -38,8 +38,9 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Preprints
 
-1. X.F. Shen, L. Reichwein, and A. Pukhov, *Relativistic Topological Waves from Cherenkov and Doppler Resonances in Self-Magnetized Laser Plasmas*, arXiv:2209.06685 (2022). [[arXiv]](https://doi.org/10.48550/arXiv.2209.06685)
+1. A. Pukhov and L. Reichwein, *Stable high-transformer ratio beam-wakefield acceleration in cusp plasma channels*. arXiv:2403.09427 (2024). [[arXiv]](https://arxiv.org/abs/2403.09427)
 1. C. Zheng et al., *First evidence of nuclear polarization effects in a laser-induced 3He fusion plasma*, arXiv:2310.04184 (2023). [[arXiv]](https://doi.org/10.48550/arXiv.2310.04184)
+1. X.F. Shen, L. Reichwein, and A. Pukhov, *Relativistic Topological Waves from Cherenkov and Doppler Resonances in Self-Magnetized Laser Plasmas*, arXiv:2209.06685 (2022). [[arXiv]](https://doi.org/10.48550/arXiv.2209.06685)
    
 
 ## Proceedings
