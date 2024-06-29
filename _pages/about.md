@@ -15,7 +15,7 @@ I am a postdoctoral researcher at Heinrich Heine University Düsseldorf in the g
 A complete list of my publications can be found on [Google Scholar](https://scholar.google.de/citations?user=YkC3-7gAAAAJ&hl=de) or [ResearchGate](https://www.researchgate.net/profile/Lars_Reichwein).
 
 ## Peer-reviewed publications
-
+1. С.Е.Перевалов et al., *Ускорение электронов при взаимодействии лазерных импульсов с твердотельными мишенями в режиме лазерного скребка*, Квантовая электроника **54**, 35 (2024) [[QE (RUS)]](https://quantum-electronics.ru/wp-content/uploads/2024/01/0035.pdf)
 1. L. Reichwein, X.F. Shen, A. Pukhov, and M. Büscher, *Spin-polarized 3He shock waves from a solid-gas composite target at high laser intensities*, Plasma Phys. Control. Fusion **66**, 055002 (2024). [[PPCF]](https://doi.org/10.1088/1361-6587/ad30c0) [[arXiv]](https://doi.org/10.48550/arXiv.2309.06271)
 1. L. Reichwein, A. Pukhov, and M. Büscher, *Acceleration of spin-polarized proton beams via two parallel laser pulses*, Phys. Rev. Accel. Beams **25**, 081001 (2022). [[PRAB]](https://link.aps.org/doi/10.1103/PhysRevAccelBeams.25.081001) [[arXiv]](https://arxiv.org/abs/2201.11534)
 1. L. Reichwein, A. Golovanov, I. Yu. Kostyukov, and A. Pukhov, *Positron acceleration via laser-augmented blowouts in two-column plasma structures*, Phys. Rev. E **105**, 055207 (2022) [[PRE]](https://doi.org/10.1103/PhysRevE.105.055207) [[arXiv]](https://arxiv.org/abs/2110.05226)
