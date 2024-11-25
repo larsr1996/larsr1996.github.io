@@ -41,7 +41,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 1. Y. Liu, M. Zeng, L. Reichwein, and A. Pukhov, *Adiabatic sheath model for beam-driven blowout plasma channels*, arXiv:2411.14668v1 (2024). [[arXiv]](https://arxiv.org/abs/2411.14668)
 1. L. Reichwein et al., *Plasma acceleration of polarized particle beams*, arXiv:2411.11621 (2024). [[arXiv]](https://doi.org/10.48550/arXiv.2411.11621)
 1. A. Pukhov and L. Reichwein, *Stable high-transformer ratio beam-wakefield acceleration in cusp plasma channels*. arXiv:2403.09427 (2024). [[arXiv]](https://arxiv.org/abs/2403.09427)
-1. C. Zheng et al., *Preservation of 3He ion polarization after laser-plasma accelerationa*, arXiv:2310.04184v2 (2023). [[arXiv]](https://doi.org/10.48550/arXiv.2310.04184)
+1. C. Zheng et al., *Preservation of 3He ion polarization after laser-plasma acceleration*, arXiv:2310.04184v2 (2023). [[arXiv]](https://doi.org/10.48550/arXiv.2310.04184)
 1. X.F. Shen, L. Reichwein, and A. Pukhov, *Relativistic Topological Waves from Cherenkov and Doppler Resonances in Self-Magnetized Laser Plasmas*, arXiv:2209.06685 (2022). [[arXiv]](https://doi.org/10.48550/arXiv.2209.06685)
    
 
