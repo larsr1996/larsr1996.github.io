@@ -38,6 +38,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Preprints
 
+1. L. Reichwein, A. Pukhov, and M. Büscher, *Interaction of Laguerre-Gaussian laser pulses with borane targets of different hydrogen-boron ratio*, arXiv:2504.20015 (2025). [[arXiv]](https://arxiv.org/abs/2504.20015)
 1. D. Sofikitis, L. Reichwein, et al., *High-energy polarized electron beams from the ionization of isolated spin polarized hydrogen atoms*, arXiv:2403.05651v2 [[arXiv]](https://arxiv.org/abs/2403.05651)
 1. O. Mathiak, L. Reichwein, and A. Pukhov, *Fast matter-antimatter separation via Weibel-induced plasma filamentation*, arXiv:2501.14479v2 (2025). [[arXiv]](https://arxiv.org/abs/2501.14479)
 1. Y. Liu, M. Zeng, L. Reichwein, and A. Pukhov, *Adiabatic sheath model for beam-driven blowout plasma channels*, arXiv:2411.14668v1 (2024). [[arXiv]](https://arxiv.org/abs/2411.14668)
