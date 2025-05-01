@@ -68,7 +68,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 - Nuclear and Elementary Particle Physics: 2022-2025
 - Mathematical Methods for Physicists I: 2019, 2023-2024
 - Theoretical Mechanics: 2019-2020, 2024
-- Progamming Lab for Physicists: 2023
+- Programming Lab for Physicists: 2023
 - Mathematical Methods for Physicists II: 2021-2023
 - Theoretical Electrodynamics: 2021, 2022
 - Numerical Simulations II: 2018
