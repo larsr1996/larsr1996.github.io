@@ -15,6 +15,7 @@ I am a postdoctoral researcher at Forschungszentrum Jülich in the group of Mark
 A complete list of my publications can be found on [Google Scholar](https://scholar.google.de/citations?user=YkC3-7gAAAAJ&hl=de) or [ResearchGate](https://www.researchgate.net/profile/Lars_Reichwein).
 
 ## Peer-reviewed publications
+1. D. Sofikitis, L. Reichwein, et al., *High-energy polarized electron beams from the ionization of isolated spin polarized hydrogen atoms*,  Phys. Rev. A **111**, 053119 (2025). [[PRA]](https://doi.org/10.1103/PhysRevA.111.053119) [[arXiv]](https://arxiv.org/abs/2403.05651)
 1. Y. Liu, M. Zeng, L. Reichwein, and A. Pukhov, *Adiabatic sheath model for beam-driven blowout plasma channels*, Phys. Rev. Research **7**, 023101 (2025). [[PRR]](https://doi.org/10.1103/PhysRevResearch.7.023101) [[arXiv]](https://arxiv.org/abs/2411.14668)
 1. S.E. Perevalov et al., *Acceleration of Electrons upon Interaction of Laser Pulses with Solid Targets in the Laser Peeler Regime*, Bull. Lebedev Phys. Inst. **51**(4), S305 (2024). [[Springer (ENG)]](https://link.springer.com/article/10.3103/S1068335624601237) [[QE (RUS)]](https://quantum-electronics.ru/wp-content/uploads/2024/01/0035.pdf)
 1. L. Reichwein, X.F. Shen, A. Pukhov, and M. Büscher, *Spin-polarized 3He shock waves from a solid-gas composite target at high laser intensities*, Plasma Phys. Control. Fusion **66**, 055002 (2024). [[PPCF]](https://doi.org/10.1088/1361-6587/ad30c0) [[arXiv]](https://doi.org/10.48550/arXiv.2309.06271)
@@ -41,7 +42,6 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 1. L. Reichwein, T.-P. Yu, A. Pukhov, and M. Büscher, *Laguerre-Gaussian pulses for spin-polarized ion beam acceleration*, arXiv:2505.05337. [[arXiv]](https://arxiv.org/abs/2505.05337)
 1. L. Reichwein, A. Pukhov, and M. Büscher, *Interaction of Laguerre-Gaussian laser pulses with borane targets of different hydrogen-boron ratio*, arXiv:2504.20015 (2025). [[arXiv]](https://arxiv.org/abs/2504.20015)
-1. D. Sofikitis, L. Reichwein, et al., *High-energy polarized electron beams from the ionization of isolated spin polarized hydrogen atoms*, arXiv:2403.05651v2 [[arXiv]](https://arxiv.org/abs/2403.05651)
 1. O. Mathiak, L. Reichwein, and A. Pukhov, *Fast matter-antimatter separation via Weibel-induced plasma filamentation*, arXiv:2501.14479v2 (2025). [[arXiv]](https://arxiv.org/abs/2501.14479)
 1. L. Reichwein et al., *Plasma acceleration of polarized particle beams*, arXiv:2411.11621 (2024). [[arXiv]](https://doi.org/10.48550/arXiv.2411.11621)
 1. A. Pukhov and L. Reichwein, *Stable high-transformer ratio beam-wakefield acceleration in cusp plasma channels*. arXiv:2403.09427 (2024). [[arXiv]](https://arxiv.org/abs/2403.09427)
