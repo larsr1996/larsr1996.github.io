@@ -15,7 +15,7 @@ I am a postdoctoral researcher at Forschungszentrum Jülich in the group of Mark
 A complete list of my publications can be found on [Google Scholar](https://scholar.google.de/citations?user=YkC3-7gAAAAJ&hl=de) or [ResearchGate](https://www.researchgate.net/profile/Lars_Reichwein).
 
 ## Peer-reviewed publications
-1. L. Reichwein, A. Pukhov, and M. Büscher, *Interaction of Laguerre-Gaussian laser pulses with borane targets of different hydrogen-boron ratio*, arXiv:2504.20015 (2025). [[SciRep]](https://doi.org/10.1038/s41598-025-18147-y) [[arXiv]](https://arxiv.org/abs/2504.20015)
+1. L. Reichwein, A. Pukhov, and M. Büscher, *Interaction of Laguerre-Gaussian laser pulses with borane targets of different hydrogen-boron ratio*, Sci. Rep. **15**, 32456 (2025). [[SciRep]](https://doi.org/10.1038/s41598-025-18147-y) [[arXiv]](https://arxiv.org/abs/2504.20015)
 1. O. Mathiak, L. Reichwein, and A. Pukhov, *Fast matter-antimatter separation via Weibel-induced plasma filamentation*, Phys. Rev. E **112**, 025208 (2025). [[PRE]](https://doi.org/10.1103/wsly-16yn) [[arXiv]](https://arxiv.org/abs/2501.14479)
 1. D. Sofikitis, L. Reichwein, et al., *High-energy polarized electron beams from the ionization of isolated spin polarized hydrogen atoms*,  Phys. Rev. A **111**, 053119 (2025). [[PRA]](https://doi.org/10.1103/PhysRevA.111.053119) [[arXiv]](https://arxiv.org/abs/2403.05651)
 1. Y. Liu, M. Zeng, L. Reichwein, and A. Pukhov, *Adiabatic sheath model for beam-driven blowout plasma channels*, Phys. Rev. Research **7**, 023101 (2025). [[PRR]](https://doi.org/10.1103/PhysRevResearch.7.023101) [[arXiv]](https://arxiv.org/abs/2411.14668)
