@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at Forschungszentrum Jülich in the group of Markus Büscher. My research is in the field of theoretical plasma physics, specifically on the topic of wakefield acceleration. 
+I am a postdoctoral researcher at Forschungszentrum Jülich in the group of Markus Büscher. My research is in the field of theoretical plasma physics, focusing mostly on spin-polarized particle beams and wakefield acceleration. 
 
 # Publications
 
