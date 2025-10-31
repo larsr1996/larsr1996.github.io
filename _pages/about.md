@@ -37,6 +37,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Reviews
 
+1. L. Reichwein et al., *Plasma acceleration of polarized particle beams*, accepted at Rep. Prog. Phys. (2025). [[ROPP]]( https://doi.org/10.1088/1361-6633/ae1988) [[arXiv]](https://doi.org/10.48550/arXiv.2411.11621)
 1. A.F. Habib et al., *Plasma photocathodes*, Ann. Phys. **535**, 2200655 (2023). [[AndP]](https://doi.org/10.1002/andp.202200655)
    
 
@@ -45,7 +46,6 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 1. O. Mathiak, L. Reichwein, and A. Pukhov, *Electron-positron pair generation using a single kJ-class laser pulse in a foam-reflector setup*, arXiv:2509.15853 [[arXiv]](https://doi.org/10.48550/arXiv.2509.15853)
 1. D. Campbell et al., *Self-Adaptive Stabilization and Quality Boost for Electron Beams from All-Optical Plasma Wakefield Accelerators*, arXiv:2507.07054. [[arXiv]](https://doi.org/10.48550/arXiv.2507.07054)
 1. L. Reichwein, T.-P. Yu, A. Pukhov, and M. Büscher, *Laguerre-Gaussian pulses for spin-polarized ion beam acceleration*, arXiv:2505.05337. [[arXiv]](https://arxiv.org/abs/2505.05337)
-1. L. Reichwein et al., *Plasma acceleration of polarized particle beams*, arXiv:2411.11621 (2024). [[arXiv]](https://doi.org/10.48550/arXiv.2411.11621)
 1. A. Pukhov and L. Reichwein, *Stable high-transformer ratio beam-wakefield acceleration in cusp plasma channels*. arXiv:2403.09427 (2024). [[arXiv]](https://arxiv.org/abs/2403.09427)
 1. C. Zheng et al., *Preservation of 3He ion polarization after laser-plasma acceleration*, arXiv:2310.04184v2 (2023). [[arXiv]](https://doi.org/10.48550/arXiv.2310.04184)
 1. X.F. Shen, L. Reichwein, and A. Pukhov, *Relativistic Topological Waves from Cherenkov and Doppler Resonances in Self-Magnetized Laser Plasmas*, arXiv:2209.06685 (2022). [[arXiv]](https://doi.org/10.48550/arXiv.2209.06685)
