@@ -37,7 +37,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Reviews
 
-1. L. Reichwein et al., *Plasma acceleration of polarized particle beams*, accepted at Rep. Prog. Phys. (2025). [[ROPP]]( https://doi.org/10.1088/1361-6633/ae1988) [[arXiv]](https://doi.org/10.48550/arXiv.2411.11621)
+1. L. Reichwein et al., *Plasma acceleration of polarized particle beams*, Rep. Prog. Phys. **88**, 117001 (2025).  [[ROPP]]( https://doi.org/10.1088/1361-6633/ae1988) [[arXiv]](https://doi.org/10.48550/arXiv.2411.11621)
 1. A.F. Habib et al., *Plasma photocathodes*, Ann. Phys. **535**, 2200655 (2023). [[AndP]](https://doi.org/10.1002/andp.202200655)
    
 
