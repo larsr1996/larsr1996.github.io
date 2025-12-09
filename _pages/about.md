@@ -43,6 +43,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Preprints
 
+1. O. Mathiak, L. Reichwein, and A. Pukhov, *Efficient Simulation of Electron-Positron Pair Production in Foam Targets in the low χ-Regime*, arXiv:2512.07605 [[arXiv]](https://doi.org/10.48550/arXiv.2512.07605)
 1. O. Mathiak, L. Reichwein, and A. Pukhov, *Electron-positron pair generation using a single kJ-class laser pulse in a foam-reflector setup*, arXiv:2509.15853 [[arXiv]](https://doi.org/10.48550/arXiv.2509.15853)
 1. D. Campbell et al., *Self-Adaptive Stabilization and Quality Boost for Electron Beams from All-Optical Plasma Wakefield Accelerators*, arXiv:2507.07054. [[arXiv]](https://doi.org/10.48550/arXiv.2507.07054)
 1. L. Reichwein, T.-P. Yu, A. Pukhov, and M. Büscher, *Laguerre-Gaussian pulses for spin-polarized ion beam acceleration*, arXiv:2505.05337. [[arXiv]](https://arxiv.org/abs/2505.05337)
