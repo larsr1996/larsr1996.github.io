@@ -15,9 +15,10 @@ I am a postdoctoral researcher at Forschungszentrum Jülich in the group of Mark
 A complete list of my publications can be found on [Google Scholar](https://scholar.google.de/citations?user=YkC3-7gAAAAJ&hl=de) or [ResearchGate](https://www.researchgate.net/profile/Lars_Reichwein).
 
 ## Peer-reviewed publications
-1. O. Mathiak, L. Reichwein, and A. Pukhov, *Electron–positron pair generation using a single kJ-class laser pulse in a foam–reflector setup*, Matter Radiat. Extrem. **11**, 047202 (2026) [[MRE]](https://doi.org/10.1063/5.0317574) [[arXiv]](https://doi.org/10.48550/arXiv.2509.15853)
-1. D. Campbell et al., *Self-Adaptive Stabilization and Quality Boost for Electron Beams from All-Optical Plasma Wakefield Accelerators*, Phys. Rev. Res. **8**, 013273 (2026) [[PRR]](https://doi.org/10.1103/p6ss-vgq5) [[arXiv]](https://doi.org/10.48550/arXiv.2507.07054)
-1. L. Reichwein, T.-P. Yu, A. Pukhov, and M. Büscher, *Laguerre-Gaussian pulses for spin-polarized ion beam acceleration*, High Power Laser Sci. Eng. **14**, e3 (2026) [[HPLSE]](https://doi.org/10.1017/hpl.2025.10098) [[arXiv]](https://arxiv.org/abs/2505.05337)
+1. C. Zheng et al., *Preservation of 3He ion polarization after laser-plasma acceleration*, High Power Laser Sci. Eng., in press (2026). [[HPLSE]](https://doi.org/10.1017/hpl.2026.10140) [[arXiv]](https://doi.org/10.48550/arXiv.2310.04184)
+1. O. Mathiak, L. Reichwein, and A. Pukhov, *Electron–positron pair generation using a single kJ-class laser pulse in a foam–reflector setup*, Matter Radiat. Extrem. **11**, 047202 (2026). [[MRE]](https://doi.org/10.1063/5.0317574) [[arXiv]](https://doi.org/10.48550/arXiv.2509.15853)
+1. D. Campbell et al., *Self-Adaptive Stabilization and Quality Boost for Electron Beams from All-Optical Plasma Wakefield Accelerators*, Phys. Rev. Res. **8**, 013273 (2026). [[PRR]](https://doi.org/10.1103/p6ss-vgq5) [[arXiv]](https://doi.org/10.48550/arXiv.2507.07054)
+1. L. Reichwein, T.-P. Yu, A. Pukhov, and M. Büscher, *Laguerre-Gaussian pulses for spin-polarized ion beam acceleration*, High Power Laser Sci. Eng. **14**, e3 (2026). [[HPLSE]](https://doi.org/10.1017/hpl.2025.10098) [[arXiv]](https://arxiv.org/abs/2505.05337)
 1. L. Reichwein, A. Pukhov, and M. Büscher, *Interaction of Laguerre-Gaussian laser pulses with borane targets of different hydrogen-boron ratio*, Sci. Rep. **15**, 32456 (2025). [[SciRep]](https://doi.org/10.1038/s41598-025-18147-y) [[arXiv]](https://arxiv.org/abs/2504.20015)
 1. O. Mathiak, L. Reichwein, and A. Pukhov, *Fast matter-antimatter separation via Weibel-induced plasma filamentation*, Phys. Rev. E **112**, 025208 (2025). [[PRE]](https://doi.org/10.1103/wsly-16yn) [[arXiv]](https://arxiv.org/abs/2501.14479)
 1. D. Sofikitis, L. Reichwein, et al., *High-energy polarized electron beams from the ionization of isolated spin polarized hydrogen atoms*,  Phys. Rev. A **111**, 053119 (2025). [[PRA]](https://doi.org/10.1103/PhysRevA.111.053119) [[arXiv]](https://arxiv.org/abs/2403.05651)
@@ -48,7 +49,6 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 1. O. Mathiak, L. Reichwein, and A. Pukhov, *Efficient Simulation of Electron-Positron Pair Production in Foam Targets in the low χ-Regime*, arXiv:2512.07605 [[arXiv]](https://doi.org/10.48550/arXiv.2512.07605)
 1. A. Pukhov and L. Reichwein, *Stable high-transformer ratio beam-wakefield acceleration in cusp plasma channels*. arXiv:2403.09427 (2024). [[arXiv]](https://arxiv.org/abs/2403.09427)
-1. C. Zheng et al., *Preservation of 3He ion polarization after laser-plasma acceleration*, arXiv:2310.04184v2 (2023). [[arXiv]](https://doi.org/10.48550/arXiv.2310.04184)
 1. X.F. Shen, L. Reichwein, and A. Pukhov, *Relativistic Topological Waves from Cherenkov and Doppler Resonances in Self-Magnetized Laser Plasmas*, arXiv:2209.06685 (2022). [[arXiv]](https://doi.org/10.48550/arXiv.2209.06685)
    
 
