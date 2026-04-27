@@ -47,7 +47,8 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Preprints
 
-1. O. Mathiak, L. Reichwein, and A. Pukhov, *Efficient Simulation of Electron-Positron Pair Production in Foam Targets in the low χ-Regime*, arXiv:2512.07605 [[arXiv]](https://doi.org/10.48550/arXiv.2512.07605)
+1. L. Reichwein et al., *Pinching injection in wakefields for spin-polarized electron beams*, arXiv:2604.22369 (2026). [[arXiv]](https://arxiv.org/abs/2604.22369)
+1. O. Mathiak, L. Reichwein, and A. Pukhov, *Efficient Simulation of Electron-Positron Pair Production in Foam Targets in the low χ-Regime*, arXiv:2512.07605 (2025). [[arXiv]](https://doi.org/10.48550/arXiv.2512.07605)
 1. A. Pukhov and L. Reichwein, *Stable high-transformer ratio beam-wakefield acceleration in cusp plasma channels*. arXiv:2403.09427 (2024). [[arXiv]](https://arxiv.org/abs/2403.09427)
 1. X.F. Shen, L. Reichwein, and A. Pukhov, *Relativistic Topological Waves from Cherenkov and Doppler Resonances in Self-Magnetized Laser Plasmas*, arXiv:2209.06685 (2022). [[arXiv]](https://doi.org/10.48550/arXiv.2209.06685)
    
