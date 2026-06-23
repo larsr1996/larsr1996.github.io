@@ -15,7 +15,7 @@ I am a postdoctoral researcher at Forschungszentrum Jülich in the group of Mark
 A complete list of my publications can be found on [Google Scholar](https://scholar.google.de/citations?user=YkC3-7gAAAAJ&hl=de) or [ResearchGate](https://www.researchgate.net/profile/Lars_Reichwein).
 
 ## Peer-reviewed publications
-1. C. Zheng et al., *Preservation of 3He ion polarization after laser-plasma acceleration*, High Power Laser Sci. Eng., in press (2026). [[HPLSE]](https://doi.org/10.1017/hpl.2026.10140) [[arXiv]](https://doi.org/10.48550/arXiv.2310.04184)
+1. C. Zheng et al., *Preservation of 3He ion polarization after laser-plasma acceleration*, High Power Laser Sci. Eng. **14**, e48 (2026). [[HPLSE]](https://doi.org/10.1017/hpl.2026.10140) [[arXiv]](https://doi.org/10.48550/arXiv.2310.04184)
 1. O. Mathiak, L. Reichwein, and A. Pukhov, *Electron–positron pair generation using a single kJ-class laser pulse in a foam–reflector setup*, Matter Radiat. Extrem. **11**, 047202 (2026). [[MRE]](https://doi.org/10.1063/5.0317574) [[arXiv]](https://doi.org/10.48550/arXiv.2509.15853)
 1. D. Campbell et al., *Self-Adaptive Stabilization and Quality Boost for Electron Beams from All-Optical Plasma Wakefield Accelerators*, Phys. Rev. Res. **8**, 013273 (2026). [[PRR]](https://doi.org/10.1103/p6ss-vgq5) [[arXiv]](https://doi.org/10.48550/arXiv.2507.07054)
 1. L. Reichwein, T.-P. Yu, A. Pukhov, and M. Büscher, *Laguerre-Gaussian pulses for spin-polarized ion beam acceleration*, High Power Laser Sci. Eng. **14**, e3 (2026). [[HPLSE]](https://doi.org/10.1017/hpl.2025.10098) [[arXiv]](https://arxiv.org/abs/2505.05337)
