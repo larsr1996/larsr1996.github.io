@@ -50,13 +50,13 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 1. O. Mathiak, L. Reichwein et al., *Radiative depolarization of high-energy electron beams in wakefield accelerators*, arXiv:2605.19814 (2026). [[arXiv]](https://doi.org/10.48550/arXiv.2605.19814)
 1. J. P. Farmer et al., *An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration*, arXiv:2605.07929 (2026). [[arXiv]](https://doi.org/10.48550/arXiv.2605.07929)
 1. L. Reichwein et al., *Pinching injection in wakefields for spin-polarized electron beams*, arXiv:2604.22369 (2026). [[arXiv]](https://arxiv.org/abs/2604.22369)
-1. O. Mathiak, L. Reichwein, and A. Pukhov, *Efficient Simulation of Electron-Positron Pair Production in Foam Targets in the low χ-Regime*, arXiv:2512.07605 (2025). [[arXiv]](https://doi.org/10.48550/arXiv.2512.07605)
 1. A. Pukhov and L. Reichwein, *Stable high-transformer ratio beam-wakefield acceleration in cusp plasma channels*. arXiv:2403.09427 (2024). [[arXiv]](https://arxiv.org/abs/2403.09427)
 1. X.F. Shen, L. Reichwein, and A. Pukhov, *Relativistic Topological Waves from Cherenkov and Doppler Resonances in Self-Magnetized Laser Plasmas*, arXiv:2209.06685 (2022). [[arXiv]](https://doi.org/10.48550/arXiv.2209.06685)
    
 
 ## Proceedings
 
+1. O. Mathiak, L. Reichwein, and A. Pukhov, *Efficient Simulation of Electron-Positron Pair Production in Foam Targets in the low χ-Regime*, *J. Phys.: Conf. Ser.* **3266**, 012009 (2026). [[JPCS]](https://dx.doi.org/10.1088/1742-6596/3266/1/012009) [[arXiv]](https://doi.org/10.48550/arXiv.2512.07605)
 1. L. Reichwein, A. Soloviev, and A. Pukhov, *Acceleration of spin-polarized proton beams from a dual-laser pulse setup*, for the 48th EPS Conference on Plasma Physics (2022). [[EPS]](http://ocs.ciemat.es/EPS2022PAP/pdf/P2a.203.pdf)
 1. L. Reichwein, M. Filipovic, X. F. Shen et al., *Interaction of Extremely Intense Flows of Electromagnetic Energy and QED Processes in Supercritical Fields*, NIC Symposium 2022 Proceedings (2022). [[NIC]](http://hdl.handle.net/2128/31840) 
 1. L. Reichwein, A. Hützen, M. Büscher, and A. Pukhov, *Spin-Polarized Particle Beams from Laser-Plasma Based Accelerators*, J. Phys.: Conf. Ser. **2249**, 012018 (2022). [[IOP]](https://iopscience.iop.org/article/10.1088/1742-6596/2249/1/012018)
