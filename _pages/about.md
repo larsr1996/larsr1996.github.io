@@ -47,7 +47,7 @@ A complete list of my publications can be found on [Google Scholar](https://scho
 
 ## Preprints
 
-1. L. Reichwein et al., *A plasma photocathode for spin-polarized electron beams using excited hydrogen halides*, arXiv:2608.04932 (2026). [[arXiv]](https://doi.org/10.48550/arXiv.2608.04932)
+1. L. Reichwein et al., *A plasma photocathode for spin-polarized electron beams via state-selected hydrogen halide photofragments*, arXiv:2608.04932 (2026). [[arXiv]](https://doi.org/10.48550/arXiv.2608.04932)
 1. L. Verra et al., *Report on the Advanced Linear Collider Study Group (ALEGRO) Workshop 2026*, arXiv:2607.09457 (2026). [[arXiv]](https://doi.org/10.48550/arXiv.2607.09457)
 1. O. Mathiak, L. Reichwein et al., *Radiative depolarization of high-energy electron beams in wakefield accelerators*, arXiv:2605.19814 (2026). [[arXiv]](https://doi.org/10.48550/arXiv.2605.19814)
 1. J. P. Farmer et al., *An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration*, arXiv:2605.07929 (2026). [[arXiv]](https://doi.org/10.48550/arXiv.2605.07929)
